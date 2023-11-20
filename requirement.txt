@@ -1,0 +1,11 @@
+## Requirement
+The code has been tested running under Python 3.6
+The required packages are as follows:
+* cudatoolkit=10.0
+* cudnn=7.6.4
+* tensorflow-gpu==1.13.2
+* keras==2.1.5
+* numpy==1.16.4
+* pandas==0.20.3
+* scikit-learn==0.22.2.post1
+* rdkit==2017.03.1
